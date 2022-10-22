@@ -1,0 +1,140 @@
+Kernel: linear, max features: 1500.00000
+Average score for 1500 feature words: 0.76547
+Time taken: 1.43
+
+Kernel: linear, max features: 3000.00000
+Average score for 3000 feature words: 0.77968
+Time taken: 2.34
+
+Kernel: linear, max features: 5000.00000
+Average score for 5000 feature words: 0.76266
+Time taken: 3.23
+
+Kernel: linear, max features: 8000.00000
+Average score for 8000 feature words: 0.75726
+Time taken: 4.19
+
+Kernel: linear, max features: 10000.00000
+Average score for 10000 feature words: 0.76853
+Time taken: 4.78
+
+Kernel: linear, max features: 12000.00000
+Average score for 12000 feature words: 0.74294
+Time taken: 5.21
+
+Kernel: linear, max features: 15000.00000
+Average score for 15000 feature words: 0.73710
+Time taken: 5.97
+
+Kernel: linear, max features: 20000.00000
+Average score for 20000 feature words: 0.76825
+Time taken: 7.06
+
+Average score for kernel: 3.80118
+
+
+Kernel: poly, max features: 1500.00000
+Average score for 1500 feature words: 0.76841
+Time taken: 4.43
+
+Kernel: poly, max features: 3000.00000
+Average score for 3000 feature words: 0.77388
+Time taken: 6.62
+
+Kernel: poly, max features: 5000.00000
+Average score for 5000 feature words: 0.74845
+Time taken: 8.41
+
+Kernel: poly, max features: 8000.00000
+Average score for 8000 feature words: 0.74877
+Time taken: 10.99
+
+Kernel: poly, max features: 10000.00000
+Average score for 10000 feature words: 0.74302
+Time taken: 12.77
+
+Kernel: poly, max features: 12000.00000
+Average score for 12000 feature words: 0.74012
+Time taken: 13.37
+
+Kernel: poly, max features: 15000.00000
+Average score for 15000 feature words: 0.73433
+Time taken: 14.43
+
+Kernel: poly, max features: 20000.00000
+Average score for 20000 feature words: 0.75412
+Time taken: 15.75
+
+Average score for kernel: 3.75694
+
+
+Kernel: rbf, max features: 1500.00000
+Average score for 1500 feature words: 0.75425
+Time taken: 2.88
+
+Kernel: rbf, max features: 3000.00000
+Average score for 3000 feature words: 0.77119
+Time taken: 4.38
+
+Kernel: rbf, max features: 5000.00000
+Average score for 5000 feature words: 0.75412
+Time taken: 5.57
+
+Kernel: rbf, max features: 8000.00000
+Average score for 8000 feature words: 0.74873
+Time taken: 7.51
+
+Kernel: rbf, max features: 10000.00000
+Average score for 10000 feature words: 0.74877
+Time taken: 8.84
+
+Kernel: rbf, max features: 12000.00000
+Average score for 12000 feature words: 0.74012
+Time taken: 9.61
+
+Kernel: rbf, max features: 15000.00000
+Average score for 15000 feature words: 0.72865
+Time taken: 10.56
+
+Kernel: rbf, max features: 20000.00000
+Average score for 20000 feature words: 0.74845
+Time taken: 11.82
+
+Average score for kernel: 3.74643
+
+
+Kernel: sigmoid, max features: 1500.00000
+Average score for 1500 feature words: 0.75429
+Time taken: 1.27
+
+Kernel: sigmoid, max features: 3000.00000
+Average score for 3000 feature words: 0.74857
+Time taken: 1.91
+
+Kernel: sigmoid, max features: 5000.00000
+Average score for 5000 feature words: 0.75135
+Time taken: 2.55
+
+Kernel: sigmoid, max features: 8000.00000
+Average score for 8000 feature words: 0.74310
+Time taken: 3.29
+
+Kernel: sigmoid, max features: 10000.00000
+Average score for 10000 feature words: 0.73461
+Time taken: 3.87
+
+Kernel: sigmoid, max features: 12000.00000
+Average score for 12000 feature words: 0.72596
+Time taken: 4.22
+
+Kernel: sigmoid, max features: 15000.00000
+Average score for 15000 feature words: 0.72579
+Time taken: 4.65
+
+Kernel: sigmoid, max features: 20000.00000
+Average score for 20000 feature words: 0.74004
+Time taken: 5.37
+
+Average score for kernel: 3.70231
+
+
